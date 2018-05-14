@@ -1,0 +1,8 @@
+[package]
+name = "twitter_description"
+version = "0.1.0"
+authors = ["ryota-sakamoto <sakamo.ryota+github@gmail.com>"]
+
+[dependencies]
+scraper = "0.6"
+reqwest = "0.8"
